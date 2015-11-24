@@ -1,5 +1,5 @@
 # Ablage
-Kleines Python 3 Script um alle Dateien von bestimmten Ordnern strukturiert abzulegen.
+
 Small Python 3 script to move all given files to a spezial structured directory.
 
 Usage:
